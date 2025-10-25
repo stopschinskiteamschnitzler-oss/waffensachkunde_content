@@ -1,0 +1,6 @@
+{
+  "content_version": "2025-10-25-1",
+  "fragen_url": "https://raw.githubusercontent.com/stopschinskiteamschnitzler-oss/waffensachkunde_content/refs/heads/main/FinalDataWaffensachkundeFragen.json",
+  "glossar_url": "https://raw.githubusercontent.com/stopschinskiteamschnitzler-oss/waffensachkunde_content/refs/heads/main/glossar_waffensachkunde.json",
+  "lookup_url": "https://raw.githubusercontent.com/stopschinskiteamschnitzler-oss/waffensachkunde_content/refs/heads/main/glossar_surface_lookup.json"
+}
