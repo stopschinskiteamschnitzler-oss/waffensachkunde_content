@@ -1,0 +1,473 @@
+{
+  "source_questions_file": "FinalDataWaffensachkundeFragen.json",
+  "target_glossary_file": "glossar_waffensachkunde.json",
+  "generated_at": "2025-08-31T14:20:44.056169",
+  "stats": {
+    "total_unique_surfaces": 35,
+    "total_matches": 576
+  },
+  "entries": [
+    {
+      "surface": "Schusswaffe",
+      "glossar_slug": "schusswaffe",
+      "glossarbegriff": "Schusswaffe",
+      "kategorie": "Definitionen",
+      "frequency": 105
+    },
+    {
+      "surface": "Waffenbesitzkarte",
+      "glossar_slug": "wbk-waffenbesitzkarte",
+      "glossarbegriff": "WBK (Waffenbesitzkarte)",
+      "kategorie": "Erlaubnisse",
+      "frequency": 57
+    },
+    {
+      "surface": "WBK",
+      "glossar_slug": "wbk-waffenbesitzkarte",
+      "glossarbegriff": "WBK (Waffenbesitzkarte)",
+      "kategorie": "Erlaubnisse",
+      "frequency": 40
+    },
+    {
+      "surface": "Schießen",
+      "glossar_slug": "schie-en-waffg",
+      "glossarbegriff": "Schießen (WaffG)",
+      "kategorie": "Vorgänge",
+      "frequency": 34
+    },
+    {
+      "surface": "Waffenschein",
+      "glossar_slug": "waffenschein",
+      "glossarbegriff": "Waffenschein",
+      "kategorie": "Erlaubnisse",
+      "frequency": 33
+    },
+    {
+      "surface": "schießen",
+      "glossar_slug": "schie-en-waffg",
+      "glossarbegriff": "Schießen (WaffG)",
+      "kategorie": "Vorgänge",
+      "frequency": 26
+    },
+    {
+      "surface": "Notwehr",
+      "glossar_slug": "notwehr",
+      "glossarbegriff": "Notwehr",
+      "kategorie": "Straf-/Haftungsrecht",
+      "frequency": 24
+    },
+    {
+      "surface": "Schalldämpfer",
+      "glossar_slug": "schalldampfer",
+      "glossarbegriff": "Schalldämpfer",
+      "kategorie": "Definitionen",
+      "frequency": 21
+    },
+    {
+      "surface": "Besitz",
+      "glossar_slug": "besitz-tatsachliche-gewalt",
+      "glossarbegriff": "Besitz (tatsächliche Gewalt)",
+      "kategorie": "Vorgänge",
+      "frequency": 19
+    },
+    {
+      "surface": "Schießstand",
+      "glossar_slug": "schie-statte-schie-stand",
+      "glossarbegriff": "Schießstätte/Schießstand",
+      "kategorie": "Schießbetrieb",
+      "frequency": 19
+    },
+    {
+      "surface": "Bedürfnis",
+      "glossar_slug": "bedurfnis",
+      "glossarbegriff": "Bedürfnis",
+      "kategorie": "Erlaubnisvoraussetzungen",
+      "frequency": 17
+    },
+    {
+      "surface": "Schießstätte",
+      "glossar_slug": "schie-statte-schie-stand",
+      "glossarbegriff": "Schießstätte/Schießstand",
+      "kategorie": "Schießbetrieb",
+      "frequency": 17
+    },
+    {
+      "surface": "PTB im Kreis",
+      "glossar_slug": "ptb-im-kreis",
+      "glossarbegriff": "PTB im Kreis",
+      "kategorie": "Kennzeichnungen",
+      "frequency": 16
+    },
+    {
+      "surface": "schussbereit",
+      "glossar_slug": "schussbereit",
+      "glossarbegriff": "Schussbereit",
+      "kategorie": "Zustände",
+      "frequency": 14
+    },
+    {
+      "surface": "Kurzwaffe",
+      "glossar_slug": "kurzwaffe",
+      "glossarbegriff": "Kurzwaffe",
+      "kategorie": "Definitionen",
+      "frequency": 13
+    },
+    {
+      "surface": "Waffengesetz",
+      "glossar_slug": "waffg-waffengesetz",
+      "glossarbegriff": "WaffG (Waffengesetz)",
+      "kategorie": "Recht",
+      "frequency": 13
+    },
+    {
+      "surface": "Transport",
+      "glossar_slug": "transport",
+      "glossarbegriff": "Transport",
+      "kategorie": "Vorgänge",
+      "frequency": 12
+    },
+    {
+      "surface": "WaffG",
+      "glossar_slug": "waffg-waffengesetz",
+      "glossarbegriff": "WaffG (Waffengesetz)",
+      "kategorie": "Recht",
+      "frequency": 12
+    },
+    {
+      "surface": "PTB",
+      "glossar_slug": "ptb-im-kreis",
+      "glossarbegriff": "PTB im Kreis",
+      "kategorie": "Kennzeichnungen",
+      "frequency": 11
+    },
+    {
+      "surface": "zugriffsbereit",
+      "glossar_slug": "zugriffsbereit",
+      "glossarbegriff": "Zugriffsbereit",
+      "kategorie": "Zustände",
+      "frequency": 11
+    },
+    {
+      "surface": "Notstand",
+      "glossar_slug": "notstand",
+      "glossarbegriff": "Notstand",
+      "kategorie": "Straf-/Haftungsrecht",
+      "frequency": 10
+    },
+    {
+      "surface": "persönliche Eignung",
+      "glossar_slug": "personliche-eignung",
+      "glossarbegriff": "Persönliche Eignung",
+      "kategorie": "Erlaubnisvoraussetzungen",
+      "frequency": 9
+    },
+    {
+      "surface": "Zuverlässigkeit",
+      "glossar_slug": "zuverlassigkeit",
+      "glossarbegriff": "Zuverlässigkeit",
+      "kategorie": "Erlaubnisvoraussetzungen",
+      "frequency": 8
+    },
+    {
+      "surface": "wesentliche Teile",
+      "glossar_slug": "wesentliche-teile",
+      "glossarbegriff": "Wesentliche Teile",
+      "kategorie": "Definitionen",
+      "frequency": 6
+    },
+    {
+      "surface": "Nothilfe",
+      "glossar_slug": "nothilfe",
+      "glossarbegriff": "Nothilfe",
+      "kategorie": "Straf-/Haftungsrecht",
+      "frequency": 5
+    },
+    {
+      "surface": "Feuerwaffe",
+      "glossar_slug": "feuerwaffe",
+      "glossarbegriff": "Feuerwaffe",
+      "kategorie": "Definitionen",
+      "frequency": 4
+    },
+    {
+      "surface": "Langwaffe",
+      "glossar_slug": "langwaffe",
+      "glossarbegriff": "Langwaffe",
+      "kategorie": "Definitionen",
+      "frequency": 4
+    },
+    {
+      "surface": "Sachkunde",
+      "glossar_slug": "sachkunde",
+      "glossarbegriff": "Sachkunde",
+      "kategorie": "Erlaubnisvoraussetzungen",
+      "frequency": 4
+    },
+    {
+      "surface": "SRS",
+      "glossar_slug": "ssw-srs-waffe",
+      "glossarbegriff": "SSW/SRS-Waffe",
+      "kategorie": "Definitionen",
+      "frequency": 3
+    },
+    {
+      "surface": "Anscheinswaffe",
+      "glossar_slug": "anscheinswaffe",
+      "glossarbegriff": "Anscheinswaffe",
+      "kategorie": "Definitionen",
+      "frequency": 2
+    },
+    {
+      "surface": "Putativnotwehr",
+      "glossar_slug": "putativnotwehr",
+      "glossarbegriff": "Putativnotwehr",
+      "kategorie": "Straf-/Haftungsrecht",
+      "frequency": 2
+    },
+    {
+      "surface": "Schießaufsicht",
+      "glossar_slug": "schie-aufsicht",
+      "glossarbegriff": "Schießaufsicht",
+      "kategorie": "Schießbetrieb",
+      "frequency": 2
+    },
+    {
+      "surface": "Persönliche Eignung",
+      "glossar_slug": "personliche-eignung",
+      "glossarbegriff": "Persönliche Eignung",
+      "kategorie": "Erlaubnisvoraussetzungen",
+      "frequency": 1
+    },
+    {
+      "surface": "Wesentliche Teile",
+      "glossar_slug": "wesentliche-teile",
+      "glossarbegriff": "Wesentliche Teile",
+      "kategorie": "Definitionen",
+      "frequency": 1
+    },
+    {
+      "surface": "Zugriffsbereit",
+      "glossar_slug": "zugriffsbereit",
+      "glossarbegriff": "Zugriffsbereit",
+      "kategorie": "Zustände",
+      "frequency": 1
+    }
+  ],
+  "glossary_index": {
+    "waffg-waffengesetz": {
+      "begriff": "WaffG (Waffengesetz)",
+      "kategorie": "Recht",
+      "definition": "Zentrales Gesetz, das den Umgang mit Waffen und Munition in Deutschland regelt (Erwerb, Besitz, Führen, Aufbewahrung, Transport, Schießen u.a.)."
+    },
+    "schusswaffe": {
+      "begriff": "Schusswaffe",
+      "kategorie": "Definitionen",
+      "definition": "Gegenstand, bei dem Geschosse durch einen Lauf getrieben werden; bestimmt u.a. für Jagd, Sport, Signalgebung, Verteidigung."
+    },
+    "feuerwaffe": {
+      "begriff": "Feuerwaffe",
+      "kategorie": "Definitionen",
+      "definition": "Untergruppe der Schusswaffen, bei denen das Geschoss durch Verbrennung von Treibladung (heiße Gase) angetrieben wird."
+    },
+    "kurzwaffe": {
+      "begriff": "Kurzwaffe",
+      "kategorie": "Definitionen",
+      "definition": "Schusswaffe mit einer Gesamtlänge bis 60 cm oder deren Lauflänge weniger als 30 cm beträgt."
+    },
+    "langwaffe": {
+      "begriff": "Langwaffe",
+      "kategorie": "Definitionen",
+      "definition": "Schusswaffe mit einer Gesamtlänge über 60 cm und Lauflänge ab 30 cm."
+    },
+    "wesentliche-teile": {
+      "begriff": "Wesentliche Teile",
+      "kategorie": "Definitionen",
+      "definition": "Kernelemente von Schusswaffen; z.B. Lauf, Verschluss, Gehäuse/Griffstück bei Kurzwaffen; stehen Schusswaffen rechtlich gleich."
+    },
+    "schalldampfer": {
+      "begriff": "Schalldämpfer",
+      "kategorie": "Definitionen",
+      "definition": "Wesentliches Teil; rechtlich Schusswaffen gleichgestellt."
+    },
+    "anscheinswaffe": {
+      "begriff": "Anscheinswaffe",
+      "kategorie": "Definitionen",
+      "definition": "Gegenstand, der im Gesamterscheinungsbild echten Feuerwaffen ähnelt (inkl. Nachbildungen und unbrauchbar gemachten Waffen)."
+    },
+    "schie-en-waffg": {
+      "begriff": "Schießen (WaffG)",
+      "kategorie": "Vorgänge",
+      "definition": "Abgabe eines Geschosses durch einen Lauf sowie das Abschießen von Kartuschen-, Reizstoff- oder pyrotechnischer Munition."
+    },
+    "schussbereit": {
+      "begriff": "Schussbereit",
+      "kategorie": "Zustände",
+      "definition": "Eine Waffe ist schussbereit, wenn sie geladen ist (z.B. Patrone im Lager oder eingeführtes gefülltes Magazin)."
+    },
+    "zugriffsbereit": {
+      "begriff": "Zugriffsbereit",
+      "kategorie": "Zustände",
+      "definition": "Eine Waffe ist zugriffsbereit, wenn sie mit wenigen schnellen Handgriffen in Anschlag gebracht werden kann."
+    },
+    "erwerben-waffg": {
+      "begriff": "Erwerben (WaffG)",
+      "kategorie": "Vorgänge",
+      "definition": "Erlangen der tatsächlichen Gewalt über eine Waffe oder Munition."
+    },
+    "uberlassen-waffg": {
+      "begriff": "Überlassen (WaffG)",
+      "kategorie": "Vorgänge",
+      "definition": "Einräumen der tatsächlichen Gewalt an einen anderen (zeitweise oder dauerhaft)."
+    },
+    "besitz-tatsachliche-gewalt": {
+      "begriff": "Besitz (tatsächliche Gewalt)",
+      "kategorie": "Vorgänge",
+      "definition": "Wer die tatsächliche Gewalt über eine Waffe/Munition ausübt, hat Besitz im Sinne des WaffG."
+    },
+    "fuhren-waffg": {
+      "begriff": "Führen (WaffG)",
+      "kategorie": "Vorgänge",
+      "definition": "Mitnehmen einer Waffe außerhalb der eigenen Wohnung, Geschäftsräume oder des eigenen befriedeten Besitztums so, dass sie zugriffsbereit ist."
+    },
+    "transport": {
+      "begriff": "Transport",
+      "kategorie": "Vorgänge",
+      "definition": "Befördern einer Waffe nicht schussbereit und nicht zugriffsbereit, verpackt; nur zu vom Bedürfnis umfassten Zwecken."
+    },
+    "befriedetes-besitztum": {
+      "begriff": "Befriedetes Besitztum",
+      "kategorie": "Orte",
+      "definition": "Privatbereich, der erkennbar gegen Betreten gesichert ist (z.B. Zaun/Mauer); hier gelten erleichterte Vorgaben für das Bei‑sich‑Haben."
+    },
+    "offentliche-veranstaltung": {
+      "begriff": "Öffentliche Veranstaltung",
+      "kategorie": "Orte",
+      "definition": "Volksfeste u.ä.; dort ist das Mitführen von Waffen grundsätzlich verboten, Ausnahmen nur mit behördlicher Genehmigung."
+    },
+    "wbk-waffenbesitzkarte": {
+      "begriff": "WBK (Waffenbesitzkarte)",
+      "kategorie": "Erlaubnisse",
+      "definition": "Erlaubnis zum Erwerb und Besitz erlaubnispflichtiger Schusswaffen und Munition; Ausprägungen u.a. grün/gelb."
+    },
+    "waffenschein": {
+      "begriff": "Waffenschein",
+      "kategorie": "Erlaubnisse",
+      "definition": "Erlaubnis zum Führen schussbereiter Schusswaffen in der Öffentlichkeit."
+    },
+    "kleiner-waffenschein": {
+      "begriff": "Kleiner Waffenschein",
+      "kategorie": "Erlaubnisse",
+      "definition": "Erlaubnis zum Führen von Schreckschuss-, Reizstoff- und Signalwaffen (mit PTB im Kreis) außerhalb des eigenen befriedeten Besitztums."
+    },
+    "ptb-im-kreis": {
+      "begriff": "PTB im Kreis",
+      "kategorie": "Kennzeichnungen",
+      "definition": "Zulassungszeichen der Physikalisch‑Technischen Bundesanstalt für SRS‑Waffen; Voraussetzung für Kleinen Waffenschein."
+    },
+    "f-im-fuenfeck": {
+      "begriff": "F im Fuenfeck",
+      "kategorie": "Kennzeichnungen",
+      "definition": "Zulassungszeichen für freie Druckluft-, Federdruck- und CO2‑Waffen; Erwerb/Besitz ab 18 in der Regel WBK‑frei."
+    },
+    "bedurfnis": {
+      "begriff": "Bedürfnis",
+      "kategorie": "Erlaubnisvoraussetzungen",
+      "definition": "Sachlicher Grund für den Umgang (z.B. Jagd, Sport); wird von Verbänden/Behörden bescheinigt und vorausgesetzt für Erlaubnisse."
+    },
+    "zuverlassigkeit": {
+      "begriff": "Zuverlässigkeit",
+      "kategorie": "Erlaubnisvoraussetzungen",
+      "definition": "Waffenrechtliche Vertrauenswürdigkeit (u.a. keine schwerwiegenden Vorstrafen); wird behördlich geprüft."
+    },
+    "personliche-eignung": {
+      "begriff": "Persönliche Eignung",
+      "kategorie": "Erlaubnisvoraussetzungen",
+      "definition": "Individuelle Tauglichkeit; Behörde kann amts-/fachärztliches bzw. fachpsychologisches Zeugnis verlangen."
+    },
+    "sachkunde": {
+      "begriff": "Sachkunde",
+      "kategorie": "Erlaubnisvoraussetzungen",
+      "definition": "Nachweis der waffenrechtlichen und praktischen Kenntnisse; Voraussetzung für WBK/Waffenschein u.a."
+    },
+    "schie-statte-schie-stand": {
+      "begriff": "Schießstätte/Schießstand",
+      "kategorie": "Schießbetrieb",
+      "definition": "Zugelassene Anlage zum Schießen; Waffen und Munition müssen der Standzulassung entsprechen; Aufsicht ist Pflicht."
+    },
+    "schie-aufsicht": {
+      "begriff": "Schießaufsicht",
+      "kategorie": "Schießbetrieb",
+      "definition": "Volljährig, zuverlässig, persönlich geeignet, sachkundig und bestellt; darf nicht selbst am Schießen teilnehmen."
+    },
+    "aufbewahrung-allgemein": {
+      "begriff": "Aufbewahrung (allgemein)",
+      "kategorie": "Aufbewahrung",
+      "definition": "Waffen sind in einem Behältnis der passenden Sicherheitsstufe zu verwahren; Munition grundsätzlich getrennt."
+    },
+    "aufbewahrung-widerstandsgrad-0-i": {
+      "begriff": "Aufbewahrung Widerstandsgrad 0/I",
+      "kategorie": "Aufbewahrung",
+      "definition": "Erlaubnispflichtige Langwaffen in einem Behältnis nach DIN/EN 1143‑1 Widerstandsgrad 0 oder I."
+    },
+    "behordliche-kontrolle-aufbewahrung": {
+      "begriff": "Behördliche Kontrolle Aufbewahrung",
+      "kategorie": "Aufbewahrung",
+      "definition": "Betreten der Wohnräume gegen den Willen nur bei dringender Gefahr für die öffentliche Sicherheit zulässig."
+    },
+    "salutwaffe": {
+      "begriff": "Salutwaffe",
+      "kategorie": "Aufbewahrung",
+      "definition": "Waffe zu Böller-/Salutzwecken; nicht vollumfänglich waffG‑Aufbewahrung, aber Schutz vor Abhandenkommen sicherzustellen."
+    },
+    "verbringen-einfuhr": {
+      "begriff": "Verbringen/Einfuhr",
+      "kategorie": "Grenzüberschreitend",
+      "definition": "Grenzüberschreitendes Verbringen erfordert regelmäßig vorherige Verbringungserlaubnisse der beteiligten Staaten."
+    },
+    "europaeischer-feuerwaffenpass-efp": {
+      "begriff": "Europaeischer Feuerwaffenpass (EFP)",
+      "kategorie": "Grenzüberschreitend",
+      "definition": "Standardisiertes EU‑Dokument; berechtigt zur Mitnahme der eingetragenen Feuerwaffen und passenden Munition in andere Mitgliedstaaten (ggf. Genehmigung des Ziellandes nötig)."
+    },
+    "verbotene-waffen-gegenstande-beispiele": {
+      "begriff": "Verbotene Waffen/Gegenstände (Beispiele)",
+      "kategorie": "Verbote",
+      "definition": "U.a. bestimmte Vorderschaftrepetierflinten mit kurzen Maßen, Dauerfeuerwaffen, Zielscheinwerfer und Nachtzielgeräte in Verbindung mit Schusswaffen, Treibspiegelgeschosse für Sportschützen."
+    },
+    "leuchtspur-treibspiegel-hartkernmunition-sport": {
+      "begriff": "Leuchtspur-/Treibspiegel-/Hartkernmunition (Sport)",
+      "kategorie": "Verbote",
+      "definition": "Für Sportschützen verbotene Munitionsarten (Leuchtspur, Treibspiegel, Hartkern)."
+    },
+    "ssw-srs-waffe": {
+      "begriff": "SSW/SRS-Waffe",
+      "kategorie": "Definitionen",
+      "definition": "Schreckschuss-, Reizstoff- und Signalwaffen; rechtmäßig nur mit PTB‑Zulassungszeichen."
+    },
+    "oeffentliche-veranstaltung-waffenverbot": {
+      "begriff": "Oeffentliche Veranstaltung: Waffenverbot",
+      "kategorie": "Verbote",
+      "definition": "Bei öffentlichen Veranstaltungen ist das Bei‑sich‑Haben von Waffen grundsätzlich untersagt; Ausnahmen nur behördlich."
+    },
+    "notwehr": {
+      "begriff": "Notwehr",
+      "kategorie": "Straf-/Haftungsrecht",
+      "definition": "Erforderliche Verteidigung, um einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen abzuwehren; Schusswaffengebrauch nur als letztes Mittel und in engen Grenzen."
+    },
+    "nothilfe": {
+      "begriff": "Nothilfe",
+      "kategorie": "Straf-/Haftungsrecht",
+      "definition": "Notwehr zugunsten eines anderen."
+    },
+    "notstand": {
+      "begriff": "Notstand",
+      "kategorie": "Straf-/Haftungsrecht",
+      "definition": "Rechtfertigung bei Gefahr für Rechtsgüter (z.B. bei Tierangriff), wenn kein Angriff einer Person vorliegt."
+    },
+    "putativnotwehr": {
+      "begriff": "Putativnotwehr",
+      "kategorie": "Straf-/Haftungsrecht",
+      "definition": "Scheinbare Notwehr: Irrtümliche Annahme einer Notwehrlage; führt nicht automatisch zur Rechtfertigung."
+    }
+  }
+}

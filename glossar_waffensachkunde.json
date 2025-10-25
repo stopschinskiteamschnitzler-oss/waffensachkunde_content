@@ -1,0 +1,522 @@
+{
+  "title": "Glossar Waffensachkunde (Eigenfassung)",
+  "generated_at": "2025-08-31T13:14:41.461606",
+  "source_file": "",
+  "entries": [
+    {
+      "begriff": "WaffG (Waffengesetz)",
+      "definition": "Zentrales Bundesgesetz zum Umgang mit Waffen und Munition in Deutschland (Erwerb, Besitz, Führen, Aufbewahrung, Transport, Schießen, Verbringen usw.).",
+      "kategorie": "Recht"
+    },
+    {
+      "begriff": "AWaffV (Allgemeine Waffengesetz-Verordnung)",
+      "definition": "Verordnung zum WaffG; enthält u. a. Detailregeln zur Aufbewahrung, zum Schießbetrieb und zu Behördenverfahren.",
+      "kategorie": "Recht"
+    },
+    {
+      "begriff": "BeschG (Beschussgesetz)",
+      "definition": "Regelt die technische Prüfung/den Beschuss von Waffen und deren Teilen; Grundlage für Beschuss- und Prüfzeichen.",
+      "kategorie": "Recht"
+    },
+    {
+      "begriff": "BeschussV (Beschussverordnung)",
+      "definition": "Verordnung zum Beschussgesetz; legt u. a. die amtlichen Zeichen fest (z.B. F im Fünfeck, PTB-Zeichen).",
+      "kategorie": "Recht"
+    },
+    {
+      "begriff": "WaffVwV",
+      "definition": "Allgemeine Verwaltungsvorschrift zum Waffengesetz; Auslegungshilfe für Behörden, z.B. zu 'schussbereit' und 'zugriffsbereit'.",
+      "kategorie": "Recht"
+    },
+    {
+      "begriff": "WaffRG (Nationales Waffenregister)",
+      "definition": "Gesetzliche Grundlage für das Nationale Waffenregister; verknüpft Waffen/Wesentliche Teile mit Erlaubnissen und Personen.",
+      "kategorie": "Recht"
+    },
+    {
+      "begriff": "Schusswaffe",
+      "definition": "Gegenstand, bei dem Geschosse durch einen Lauf getrieben werden; bestimmt z.B. für Jagd, Sport, Signalgebung oder Verteidigung.",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Feuerwaffe",
+      "definition": "Schusswaffe, bei der die Geschossbewegung durch Verbrennung von Treibladung (heiße Gase) erzeugt wird.",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Druckluft-/Federdruck-/CO2-Waffe",
+      "definition": "Schussgeräte, die Geschosse mit Luft, Gas oder Federkraft antreiben; häufig mit 'F im Fünfeck' gekennzeichnet.",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Kurzwaffe",
+      "definition": "Schusswaffe mit Gesamtlänge bis 60 cm oder mit Lauflänge unter 30 cm.",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Langwaffe",
+      "definition": "Schusswaffe mit Gesamtlänge über 60 cm und Lauflänge ab 30 cm.",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Wesentliche Teile",
+      "definition": "Kernelemente von Schusswaffen (z.B. Lauf, Verschluss, Gehäuse/Griffstück) und bestimmte Zusätze; rechtlich Schusswaffen gleichgestellt.",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Schalldämpfer",
+      "definition": "Wesentliches Teil; rechtlich wie eine Schusswaffe zu behandeln.",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Unbrauchbar gemachte Waffe (deaktiviert)",
+      "definition": "Ehemalige Schusswaffe, die nach vorgeschriebenem Verfahren dauerhaft funktionsunfähig gemacht wurde.",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Salutwaffe",
+      "definition": "Für Böller- oder Salutzwecke umgebaute Waffe; kein scharfer Schuss möglich; separat geregelt.",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Anscheinswaffe",
+      "definition": "Gegenstand, der echten Feuerwaffen im Gesamterscheinungsbild ähnelt (inkl. Nachbildungen und unbrauchbar gemachten Waffen).",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Signalwaffe",
+      "definition": "Schussgerät zum Verschießen pyrotechnischer Sätze; SRS-Waffen zählen nicht automatisch dazu.",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "SSW/SRS-Waffe",
+      "definition": "Schreckschuss-, Reizstoff- und Signalwaffe; in Deutschland nur mit PTB-Zulassungszeichen rechtmäßig zu erwerben/zu führen (mit Erlaubnis).",
+      "kategorie": "Definitionen"
+    },
+    {
+      "begriff": "Erwerben",
+      "definition": "Erlangen der tatsächlichen Gewalt über eine Waffe oder Munition (unabhängig davon, ob eine Erlaubnis erforderlich ist).",
+      "kategorie": "Vorgänge"
+    },
+    {
+      "begriff": "Besitz (tatsächliche Gewalt)",
+      "definition": "Wer die tatsächliche Gewalt über eine Waffe/Munition ausübt, besitzt sie im waffenrechtlichen Sinn.",
+      "kategorie": "Vorgänge"
+    },
+    {
+      "begriff": "Überlassen",
+      "definition": "Übertragen/Einräumen der tatsächlichen Gewalt an eine andere Person (zeitweise oder dauerhaft).",
+      "kategorie": "Vorgänge"
+    },
+    {
+      "begriff": "Führen",
+      "definition": "Außerhalb der eigenen Wohnung, Geschäftsräume oder des eigenen befriedeten Besitztums die tatsächliche Gewalt über eine Waffe ausüben.",
+      "kategorie": "Vorgänge"
+    },
+    {
+      "begriff": "Mitnehmen/Mitnahme",
+      "definition": "Grenzüberschreitendes Mitführen von Waffen/Munition in andere Staaten (innerhalb/außerhalb der EU); meist erlaubnispflichtig.",
+      "kategorie": "Vorgänge"
+    },
+    {
+      "begriff": "Verbringen",
+      "definition": "Grenzüberschreitendes Befördern von Waffen/Munition nach/von Deutschland; regelmäßig vorab erlaubnispflichtig.",
+      "kategorie": "Vorgänge"
+    },
+    {
+      "begriff": "Transport",
+      "definition": "Befördern einer Waffe zu einem berechtigten Zweck; nicht schussbereit und nicht zugriffsbereit, regelmäßig verpackt.",
+      "kategorie": "Vorgänge"
+    },
+    {
+      "begriff": "Schießen (WaffG)",
+      "definition": "Abgabe eines Geschosses durch den Lauf sowie das Verschießen von Kartuschen-, Reizstoff- oder pyrotechnischer Munition.",
+      "kategorie": "Vorgänge"
+    },
+    {
+      "begriff": "Herstellen/Instandsetzen",
+      "definition": "Fertigen, Bearbeiten oder Wiederherstellen von Waffen/Wesentlichen Teilen; erlaubnispflichtig, sofern nicht gesetzlich ausgenommen.",
+      "kategorie": "Vorgänge"
+    },
+    {
+      "begriff": "Handeltreiben",
+      "definition": "Anbieten, Feilhalten, gewerbliches Veräußern von Waffen/Munition; regelmäßig mit Erlaubnispflicht verbunden.",
+      "kategorie": "Vorgänge"
+    },
+    {
+      "begriff": "Schussbereit",
+      "definition": "Geladen oder so zugerüstet, dass sofort ein Schuss abgegeben werden kann (z.B. Patrone im Lager).",
+      "kategorie": "Zustände"
+    },
+    {
+      "begriff": "Zugriffsbereit",
+      "definition": "Mit wenigen schnellen Handgriffen in Anschlag zu bringen (z.B. im Fahrzeug griffbereit in Reichweite).",
+      "kategorie": "Zustände"
+    },
+    {
+      "begriff": "Entladen",
+      "definition": "Keine Patrone im Lager/Trommel; Magazin leer und/oder entnommen.",
+      "kategorie": "Zustände"
+    },
+    {
+      "begriff": "Gesichert",
+      "definition": "Mechanische Sicherung eingelegt; ersetzt nicht das Entladen.",
+      "kategorie": "Zustände"
+    },
+    {
+      "begriff": "PTB im Kreis",
+      "definition": "Zulassungszeichen der Physikalisch-Technischen Bundesanstalt für SRS-Waffen; Voraussetzung für den legalen Erwerb/Das Führen mit 'Kleinem Waffenschein'.",
+      "kategorie": "Kennzeichnungen"
+    },
+    {
+      "begriff": "F im Fünfeck",
+      "definition": "Kennzeichen für freie Druckluft-/CO2-Waffen bis 7,5 Joule; Details nach BeschussV. Seit 24.07.2025 gelten zusätzliche Einschränkungen für bestimmte neue Modelle.",
+      "kategorie": "Kennzeichnungen"
+    },
+    {
+      "begriff": "Beschusszeichen",
+      "definition": "Amtliche Zeichen, die den bestandenen Beschuss bzw. die Prüfung an Waffen/Teilen dokumentieren.",
+      "kategorie": "Kennzeichnungen"
+    },
+    {
+      "begriff": "WBK (Waffenbesitzkarte)",
+      "definition": "Erlaubnis zum Erwerb und Besitz erlaubnispflichtiger Schusswaffen und Munition; in verschiedenen Varianten (u. a. grün/gelb).",
+      "kategorie": "Erlaubnisse"
+    },
+    {
+      "begriff": "Waffenschein",
+      "definition": "Erlaubnis zum Führen schussbereiter Schusswaffen in der Öffentlichkeit; an strenge Voraussetzungen geknüpft.",
+      "kategorie": "Erlaubnisse"
+    },
+    {
+      "begriff": "Kleiner Waffenschein",
+      "definition": "Erlaubnis zum Führen von SRS-Waffen mit PTB-Zeichen außerhalb des eigenen befriedeten Besitztums.",
+      "kategorie": "Erlaubnisse"
+    },
+    {
+      "begriff": "Europäischer Feuerwaffenpass (EFP)",
+      "definition": "EU-Dokument, das die Mitnahme eingetragener Feuerwaffen/Munition in andere Mitgliedstaaten erleichtert (zusätzliche Genehmigungen möglich).",
+      "kategorie": "Erlaubnisse"
+    },
+    {
+      "begriff": "Bedürfnis",
+      "definition": "Sachlicher Grund für den Umgang (z.B. Jagd, Sport, Brauchtum); muss nachgewiesen/bescheinigt werden.",
+      "kategorie": "Erlaubnisvoraussetzungen"
+    },
+    {
+      "begriff": "Zuverlässigkeit",
+      "definition": "Waffenrechtliche Vertrauenswürdigkeit (z.B. keine einschlägigen Vorstrafen/Verstöße); behördlich geprüft.",
+      "kategorie": "Erlaubnisvoraussetzungen"
+    },
+    {
+      "begriff": "Persönliche Eignung",
+      "definition": "Individuelle Tauglichkeit; Behörde kann amts-/fachärztliche oder fachpsychologische Nachweise verlangen.",
+      "kategorie": "Erlaubnisvoraussetzungen"
+    },
+    {
+      "begriff": "Sachkunde",
+      "definition": "Nachweis theoretischer und praktischer Kenntnisse; Voraussetzung für viele Erlaubnisse und Funktionen.",
+      "kategorie": "Erlaubnisvoraussetzungen"
+    },
+    {
+      "begriff": "Befriedetes Besitztum",
+      "definition": "Gegen unbefugtes Betreten erkennbar gesicherter Privatbereich (z.B. Zaun/Mauer/Hecke).",
+      "kategorie": "Orte"
+    },
+    {
+      "begriff": "Öffentliche Veranstaltung",
+      "definition": "Volksfeste, Kundgebungen u. a.; dort ist das Führen von Waffen grundsätzlich verboten.",
+      "kategorie": "Orte"
+    },
+    {
+      "begriff": "Schießstätte/Schießstand",
+      "definition": "Behördlich zugelassene Anlage zum Schießen; Waffen/Munition müssen zur Standzulassung passen; Aufsicht erforderlich.",
+      "kategorie": "Schießbetrieb"
+    },
+    {
+      "begriff": "Schießaufsicht",
+      "definition": "Volljährig, zuverlässig, geeignet und sachkundig; überwacht den sicheren Ablauf und nimmt selbst nicht aktiv am Schießen teil.",
+      "kategorie": "Schießbetrieb"
+    },
+    {
+      "begriff": "Standzulassung",
+      "definition": "Behördliche Zulassung eines Schießstands mit Festlegung von Disziplinen, Kalibern und Sicherheitsparametern.",
+      "kategorie": "Schießbetrieb"
+    },
+    {
+      "begriff": "Aufbewahrung allgemein",
+      "definition": "Waffen/Munition sind so zu sichern, dass Unbefugte keinen Zugriff haben; konkrete Anforderungen richten sich nach Art/Anzahl.",
+      "kategorie": "Aufbewahrung"
+    },
+    {
+      "begriff": "Widerstandsgrad 0/I (EN 1143-1)",
+      "definition": "Normstufen für Waffenschränke; erlaubnispflichtige Langwaffen in der Regel in Behältnissen ab Grad 0 zu verwahren.",
+      "kategorie": "Aufbewahrung"
+    },
+    {
+      "begriff": "Munition getrennt",
+      "definition": "Munition ist grundsätzlich getrennt von Waffen aufzubewahren (Ausnahmen je nach Behältnis/Grad möglich).",
+      "kategorie": "Aufbewahrung"
+    },
+    {
+      "begriff": "Behördliche Kontrolle",
+      "definition": "Kontrolle der Aufbewahrung ist möglich; Betreten von Wohnräumen gegen den Willen nur bei dringender Gefahr für die öffentliche Sicherheit.",
+      "kategorie": "Aufbewahrung"
+    },
+    {
+      "begriff": "Verbringen/Einfuhr",
+      "definition": "Grenzüberschreitendes Verbringen von Waffen/Munition; regelmäßig vorherige Erlaubnisse der beteiligten Staaten erforderlich.",
+      "kategorie": "Grenzüberschreitend"
+    },
+    {
+      "begriff": "Mitnahme (EFP/Transit)",
+      "definition": "Mitnahme durch den Geltungsbereich oder in andere EU-Staaten; EFP und ggf. weitere Genehmigungen nötig.",
+      "kategorie": "Grenzüberschreitend"
+    },
+    {
+      "begriff": "Verbotene Waffen/Gegenstände",
+      "definition": "In der Waffenliste (Anlage 2 Abschnitt 1) aufgeführte Gegenstände; Erwerb/Besitz/Führen grundsätzlich untersagt.",
+      "kategorie": "Verbote"
+    },
+    {
+      "begriff": "Waffenverbot bei Veranstaltungen",
+      "definition": "Bei öffentlichen Veranstaltungen ist das Führen von Waffen/Messern in der Regel verboten; regionale Verbotszonen möglich.",
+      "kategorie": "Verbote"
+    },
+    {
+      "begriff": "Zentralfeuer-/Randfeuermunition",
+      "definition": "Zündsysteme der Patrone: Zündhütchen mittig (Zentralfeuer) oder im Rand (Randfeuer).",
+      "kategorie": "Munition"
+    },
+    {
+      "begriff": "Hartkern-/Leuchtspur-/Treibspiegel",
+      "definition": "Munitionstypen mit besonderen Eigenschaften; teils verboten oder stark eingeschränkt (vgl. Waffenliste/Anlage 2).",
+      "kategorie": "Munition"
+    },
+    {
+      "begriff": "Notwehr",
+      "definition": "Erforderliche Verteidigung gegen einen gegenwärtigen rechtswidrigen Angriff; Schusswaffengebrauch nur in engen Grenzen.",
+      "kategorie": "Straf-/Haftungsrecht"
+    },
+    {
+      "begriff": "Nothilfe",
+      "definition": "Notwehr zugunsten eines anderen.",
+      "kategorie": "Straf-/Haftungsrecht"
+    },
+    {
+      "begriff": "Rechtfertigender Notstand",
+      "definition": "Handeln zur Abwehr einer gegenwärtigen Gefahr für Rechtsgüter, wenn kein Angriff einer Person vorliegt.",
+      "kategorie": "Straf-/Haftungsrecht"
+    },
+    {
+      "begriff": "Überschreitung der Notwehr",
+      "definition": "Grenzüberschreitung aus Verwirrung, Furcht oder Schrecken; kann straflos sein.",
+      "kategorie": "Straf-/Haftungsrecht"
+    },
+    {
+      "begriff": "Behördliche Dokumente beim Führen",
+      "definition": "Beim Führen sind Ausweis/Pass und erforderliche Erlaubnisse mitzuführen (z.B. WBK/Waffenschein/EFP).",
+      "kategorie": "Praxis"
+    },
+    {
+      "begriff": "Waffenrechtliche Ausnahmen",
+      "definition": "Das Gesetz kennt Ausnahmen vom Erlaubniserfordernis (z.B. Überlassen auf dem Stand, Transport zum Büchsenmacher); Details prüfen.",
+      "kategorie": "Praxis"
+    },
+    {
+      "begriff": "Verbotszonen",
+      "definition": "Räumlich festgelegte Bereiche mit Führverboten für Waffen/Messer; werden behördlich ausgewiesen.",
+      "kategorie": "Praxis"
+    },
+    {
+      "begriff": "Pistole",
+      "definition": "Selbstladekurzwaffe mit Magazin; lädt nach dem Schuss selbsttätig nach.",
+      "kategorie": "Technik"
+    },
+    {
+      "begriff": "Revolver",
+      "definition": "Kurzwaffe mit drehbarer Trommel, die als Magazin und Patronenlager dient.",
+      "kategorie": "Technik"
+    },
+    {
+      "begriff": "Repetierer",
+      "definition": "Mehrlader, bei dem das Nachladen manuell (z.B. Kammerstengel, Unterhebel) erfolgt.",
+      "kategorie": "Technik"
+    },
+    {
+      "begriff": "Selbstladebüchse",
+      "definition": "Langwaffe, die nach dem Schuss die nächste Patrone automatisch zuführt.",
+      "kategorie": "Technik"
+    },
+    {
+      "begriff": "Kipplaufwaffe",
+      "definition": "Waffe, die zum Laden durch Abkippen des Laufs geöffnet wird.",
+      "kategorie": "Technik"
+    },
+    {
+      "begriff": "Unterhebelrepetierer",
+      "definition": "Repetierer mit Unterhebel („Lever Action“) zum manuellen Nachladen.",
+      "kategorie": "Technik"
+    },
+    {
+      "begriff": "Zylinderverschluss (Kammerverschluss)",
+      "definition": "Verschlusssystem mit drehbarer Kammer; verriegelt über Warzen im Lauf/Gehäuse.",
+      "kategorie": "Verschlüsse"
+    },
+    {
+      "begriff": "Kniegelenkverschluss",
+      "definition": "Verschluss mit Gelenkgliedern, bekannt von der Pistole Parabellum (P08).",
+      "kategorie": "Verschlüsse"
+    },
+    {
+      "begriff": "Riegelverschluss",
+      "definition": "Verriegelung über beweglichen Riegel zwischen Lauf und Verschlussgehäuse.",
+      "kategorie": "Verschlüsse"
+    },
+    {
+      "begriff": "Rollenverschluss",
+      "definition": "Halbstarre Verriegelung über seitliche Rollen (z.B. HK G3/MP5).",
+      "kategorie": "Verschlüsse"
+    },
+    {
+      "begriff": "Masseverschluss",
+      "definition": "Verschluss ohne starre Verriegelung; Verzögerung über Gewicht und Federkraft.",
+      "kategorie": "Verschlüsse"
+    },
+    {
+      "begriff": "Single-Action (SA)",
+      "definition": "Der Abzug löst nur aus; der Hahn wird vorher manuell/selbsttätig gespannt.",
+      "kategorie": "Bedienung"
+    },
+    {
+      "begriff": "Double-Action (DA)",
+      "definition": "Der Abzug spannt und löst in einem Zug; oft mit höherem Abzugsgewicht.",
+      "kategorie": "Bedienung"
+    },
+    {
+      "begriff": "Double-Action Only (DAO)",
+      "definition": "Nur Spannabzug möglich; kein manuelles Vorspannen vorgesehen.",
+      "kategorie": "Bedienung"
+    },
+    {
+      "begriff": "Abzug mit Druckpunkt",
+      "definition": "Abzugscharakteristik mit spürbarem Widerstand vor der Auslösung.",
+      "kategorie": "Bedienung"
+    },
+    {
+      "begriff": "Stecher",
+      "definition": "Abzugseinrichtung, die den Auslösewiderstand für Präzisionsschüsse stark reduziert.",
+      "kategorie": "Bedienung"
+    },
+    {
+      "begriff": "Wechselmagazin (Kastenmagazin)",
+      "definition": "Herausnehmbares Magazin im Griffstück/Schacht; führt Patronen zu.",
+      "kategorie": "Magazine"
+    },
+    {
+      "begriff": "Röhrenmagazin",
+      "definition": "Langes, röhrenförmiges Magazin unter Lauf/Vorderschaft oder im Kolben.",
+      "kategorie": "Magazine"
+    },
+    {
+      "begriff": "Kimme",
+      "definition": "Hintere offene Visierungskomponente.",
+      "kategorie": "Visierung"
+    },
+    {
+      "begriff": "Korn",
+      "definition": "Vordere offene Visierungskomponente.",
+      "kategorie": "Visierung"
+    },
+    {
+      "begriff": "Diopter",
+      "definition": "Lochvisier für präzises Zielen, meist an Matchwaffen.",
+      "kategorie": "Visierung"
+    },
+    {
+      "begriff": "Zielfernrohr (ZF)",
+      "definition": "Optische Zielhilfe mit Vergrößerung und Absehen.",
+      "kategorie": "Visierung"
+    },
+    {
+      "begriff": "Drall",
+      "definition": "Drall/Zug-Feld-Profil versetzt das Geschoss in Rotation für stabile Flugbahn.",
+      "kategorie": "Lauf"
+    },
+    {
+      "begriff": "Züge und Felder",
+      "definition": "Einschnitte und Erhöhungen im Lauf, die den Drall erzeugen.",
+      "kategorie": "Lauf"
+    },
+    {
+      "begriff": "Choke",
+      "definition": "Mündungsverengung bei Flintenläufen zur Beeinflussung der Schrotgarbe.",
+      "kategorie": "Lauf"
+    },
+    {
+      "begriff": "Flintenlaufgeschoss (Slug)",
+      "definition": "Einzelgeschoss für Flintenlauf; aus glatten Läufen verschossen.",
+      "kategorie": "Munition"
+    },
+    {
+      "begriff": "Schrot",
+      "definition": "Mehrere kleine Kugeln als Ladung für Flinten.",
+      "kategorie": "Munition"
+    },
+    {
+      "begriff": "Kartuschenmunition",
+      "definition": "Hülse mit Antriebsladung, aber ohne Projektil; z.B. für Signal- oder Funktionszwecke.",
+      "kategorie": "Munition"
+    },
+    {
+      "begriff": "Diabolo",
+      "definition": "Typisches Geschoss für Luftdruckwaffen in Spindelform.",
+      "kategorie": "Munition"
+    },
+    {
+      "begriff": "Wadcutter",
+      "definition": "Zylindrisches Kurzwaffengeschoss, das runde Löcher in Scheiben stanzt.",
+      "kategorie": "Munition"
+    },
+    {
+      "begriff": "Mündungsenergie (E0)",
+      "definition": "Kinetische Energie des Geschosses an der Mündung; bestimmt u. a. Gesetzeseinstufungen.",
+      "kategorie": "Ballistik"
+    },
+    {
+      "begriff": "Mündungsgeschwindigkeit (v0)",
+      "definition": "Geschwindigkeit des Geschosses beim Verlassen der Mündung.",
+      "kategorie": "Ballistik"
+    },
+    {
+      "begriff": "Nitrozellulose (NC)",
+      "definition": "Grundstoff vieler rauchschwacher Treibladungspulver.",
+      "kategorie": "Ballistik"
+    },
+    {
+      "begriff": "Schwarzpulver",
+      "definition": "Historisches Treibmittel aus Salpeter, Schwefel und Holzkohle.",
+      "kategorie": "Ballistik"
+    },
+    {
+      "begriff": "Berdan-Zündhütchen",
+      "definition": "Zündsystem mit Amboss in der Hülse; zwei Zündkanäle üblich.",
+      "kategorie": "Munition"
+    },
+    {
+      "begriff": "Boxer-Zündhütchen",
+      "definition": "Zündsystem mit Amboss im Zündhütchen; einfacher zu entzünderln.",
+      "kategorie": "Munition"
+    },
+    {
+      "begriff": "Mündungsbremse",
+      "definition": "Anbau an der Mündung, der Rückstoß und Hochschlag durch Gasableitung verringert.",
+      "kategorie": "Zubehör"
+    },
+    {
+      "begriff": "Mündungsfeuerdämpfer",
+      "definition": "Vorrichtung zur Reduktion des sichtbaren Mündungsfeuers.",
+      "kategorie": "Zubehör"
+    }
+  ]
+}
